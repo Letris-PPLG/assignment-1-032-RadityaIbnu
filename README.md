@@ -59,7 +59,7 @@ Response:
 {
   "msg": "API berjalan normal",
   "code": 200
-}
+} 
 ```
 
 ---
